@@ -1,0 +1,5 @@
+export class Ents {
+    constructor({a= ''}) {
+        this.a = a;
+    }
+}
