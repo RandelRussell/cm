@@ -4,6 +4,7 @@ npm i primevue
 npm i @primevue/themes
 npm i primeicons 
 npm i primeflex 
+npm i json-server@0.17.4
 
 ### appv
 
